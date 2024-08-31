@@ -11,6 +11,6 @@ package com.mycompany.miprimerrepositorio;
 public class MiPrimerRepositorio {
 
     public static void main(String[] args) {
-        System.out.println("Hola este es mi primer repositorio");
+        System.out.println("Hola este es mi primer repositorio XD");
     }
 }
